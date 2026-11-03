@@ -21,8 +21,11 @@
 | monitores – clases | muchos | uno | N:1 |
 | socios – clases | muchos | muchos | N:M |
 | monitores – especialidades | muchos | muchos | N:M |
+
 <br>
+
 ---
+
 <h1>Ejercicio A3</h1>
 
 monitores y clases
